@@ -1,4 +1,4 @@
-> **布局预览 / DEMO**：项目效果、就职经历、博客和联系方式中的示例内容均为虚构占位，不代表真实履历或项目指标。
+> **页面说明 / DEMO**：ERP Support Eval 为已发布项目，效果展示使用人工评测样例；其余明确标注为虚构的项目效果、就职经历、博客和联系方式仍为占位内容，不代表真实履历或线上业务指标。
 
 <div align="center">
 
@@ -11,6 +11,8 @@
 Building AI applications. Exploring better ways to build with AI.
 
 <p>
+  <a href="https://github.com/Jackson366/erp-support-eval">ERP Support Eval</a>
+  &nbsp; / &nbsp;
   <a href="https://github.com/Jackson366/WeChat-AI">WeChat-AI</a>
   &nbsp; / &nbsp;
   <a href="https://github.com/Jackson366/bmad_prd">bmad_prd</a>
@@ -36,9 +38,30 @@ Building AI applications. Exploring better ways to build with AI.
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+<sub>01 / AI SUPPORT EVALUATION</sub>
+
+<h3><a href="https://github.com/Jackson366/erp-support-eval">ERP Support Eval ↗</a></h3>
+
+<p><strong>让每条 ERP 客服回答，有据可查。</strong></p>
+
+<p>为面向已购云 ERP 客户的 AI 客服建立可复核评测，检查产品知识、租户与权限边界、操作建议和服务承诺。</p>
+
+<p>提供电子行业 ERP 公开帮助文档案例与通用合成案例，共 18 个场景、36 份人工参考回答；支持五项硬性检查、原文证据校验和可搜索的离线报告。</p>
+
+<p><code>Python</code> <code>LLM Evaluation</code> <code>Customer Support</code></p>
+
+<a href="https://github.com/Jackson366/erp-support-eval#readme">查看项目 →</a>
+ · <a href="https://github.com/Jackson366/erp-support-eval/blob/main/README.zh-CN.md">中文说明</a>
+ · <a href="https://github.com/Jackson366/erp-support-eval/releases/tag/v0.1.0">v0.1.0</a>
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-<sub>01 / AI APPLICATION</sub>
+<sub>02 / AI APPLICATION</sub>
 
 <h3><a href="https://github.com/Jackson366/WeChat-AI">WeChat-AI ↗</a></h3>
 
@@ -55,7 +78,7 @@ Building AI applications. Exploring better ways to build with AI.
 </td>
 <td width="50%" valign="top">
 
-<sub>02 / AI DEVELOPMENT WORKFLOW</sub>
+<sub>03 / AI DEVELOPMENT WORKFLOW</sub>
 
 <h3><a href="https://github.com/Jackson366/bmad_prd">bmad_prd ↗</a></h3>
 
@@ -76,7 +99,19 @@ Building AI applications. Exploring better ways to build with AI.
 
 ### Project showcase · 项目效果
 
-> 以下对话、产出与效果数据均为虚构示例，仅用于预览展示方式。
+> ERP Support Eval 展示来自仓库中可复现的人工样例，不代表线上模型准确率；另外两个项目的对话、产出与效果数据仍为虚构示例。
+
+#### ERP Support Eval / 87.5 分，为什么仍然失败？
+
+客服回答正确解释了导入资料的限制，最后却额外承诺“五分钟内处理好”。已有资料没有这项服务承诺，因此触发硬性失败，高分也不能覆盖。
+
+![ERP Support Eval：人工样例得到 87.5 分，仍因无依据的服务承诺失败](https://raw.githubusercontent.com/Jackson366/erp-support-eval/main/docs/assets/high-score-failure.png)
+
+**首版内容**：18 个评测场景 · 36 份人工参考回答 · 5 项硬性检查。案例包括 BOM、账号权限、领料出库、反审批、资料缺失与流程冲突。
+
+**验证范围**：41 项离线测试及两套案例校验通过；参考回答和评分为人工编写，实际客服效果仍需人工校准。
+
+[运行演示](https://github.com/Jackson366/erp-support-eval#try-the-demo) · [接入自己的客服](https://github.com/Jackson366/erp-support-eval/blob/main/docs/erp-adoption-guide.md) · [发布版本](https://github.com/Jackson366/erp-support-eval/releases/tag/v0.1.0)
 
 #### WeChat-AI / 一段有角色感的日常对话
 
