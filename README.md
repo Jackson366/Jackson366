@@ -1,40 +1,30 @@
-> **页面说明 / DEMO**：ERP Support Eval 为已发布项目，效果展示使用人工评测样例；其余明确标注为虚构的项目效果、就职经历、博客和联系方式仍为占位内容，不代表真实履历或线上业务指标。
-
-<div align="center">
-
-<sub>BUILD · EXPERIMENT · SHARE</sub>
-
-# Hi, I'm Jackson 👋
-
-### 把 AI 的可能性，做成日常可用的工具。
-
-Building AI applications. Exploring better ways to build with AI.
-
-<p>
-  <a href="https://github.com/Jackson366/erp-support-eval">ERP Support Eval</a>
-  &nbsp; / &nbsp;
-  <a href="https://github.com/Jackson366/WeChat-AI">WeChat-AI</a>
-  &nbsp; / &nbsp;
-  <a href="https://github.com/Jackson366/bmad_prd">bmad_prd</a>
-  &nbsp; / &nbsp;
-  <a href="https://github.com/Jackson366?tab=repositories">All repositories</a>
+<p align="center">
+  <img src="./assets/profile-hero-v2.svg" width="100%" alt="Jackson — Build useful things. With AI. With intent." />
 </p>
 
-</div>
+<p align="center">
+  <b>把 AI 的可能性，做成日常可用的工具。</b>
+</p>
+<p align="center">
+  <a href="#selected-work">精选项目</a> &nbsp; · &nbsp;
+  <a href="#in-action">项目效果</a> &nbsp; · &nbsp;
+  <a href="#experience">就职经历</a> &nbsp; · &nbsp;
+  <a href="#writing">博客与联系</a>
+</p>
 
----
+<br>
 
-### About me
+我是 **Jackson**，关注 AI 应用开发、Agent 与 AI 辅助研发。  
+喜欢从具体问题出发，把模型能力接入真实场景，让人与 AI 的协作更清晰、更可靠。
 
-我是 Jackson，关注 **AI 应用开发、Agent 与 AI 辅助研发**。
+**常用语言** &nbsp; `Java` &nbsp; `TypeScript`  
+**探索方向** &nbsp; `AI Applications` &nbsp; `Agents` &nbsp; `Evaluation` &nbsp; `Context Engineering`
 
-喜欢从具体问题出发，把模型能力接入真实场景；也在探索如何组织需求、上下文与开发流程，让人与 AI 的协作更清晰、更可靠。
+<br>
 
-- **Build** — 将对话、角色与工作流组合成可使用的 AI 应用。
-- **Explore** — 探索从需求分析、PRD 到开发与验证的 AI 协作流程。
-- **Learn** — 在项目实践中持续打磨 Java、TypeScript 与工程能力。
-
-### Selected projects
+<a id="selected-work"></a>
+## 01 &nbsp; Selected work
+<sub>从对话应用到研发流程，再到可复核的效果评估。</sub>
 
 <table>
 <tr>
@@ -97,11 +87,14 @@ Building AI applications. Exploring better ways to build with AI.
 </tr>
 </table>
 
-### Project showcase · 项目效果
+<br>
 
-> ERP Support Eval 展示来自仓库中可复现的人工样例，不代表线上模型准确率；另外两个项目的对话、产出与效果数据仍为虚构示例。
+<a id="in-action"></a>
+## 02 &nbsp; In action
+<sub>一个真实报告样例，两段应用场景演示。</sub>
 
-#### ERP Support Eval / 87.5 分，为什么仍然失败？
+### 高分，也可能不合格。
+**ERP Support Eval** &nbsp; / &nbsp; 人工评测样例
 
 客服回答正确解释了导入资料的限制，最后却额外承诺“五分钟内处理好”。已有资料没有这项服务承诺，因此触发硬性失败，高分也不能覆盖。
 
@@ -113,6 +106,11 @@ Building AI applications. Exploring better ways to build with AI.
 
 [运行演示](https://github.com/Jackson366/erp-support-eval#try-the-demo) · [接入自己的客服](https://github.com/Jackson366/erp-support-eval/blob/main/docs/erp-adoption-guide.md) · [发布版本](https://github.com/Jackson366/erp-support-eval/releases/tag/v0.1.0)
 
+<details>
+<summary><strong>查看 WeChat-AI 对话演示</strong> · 虚构示例</summary>
+
+> 以下对话与效果数据为虚构展示，不代表实际运行指标。
+
 #### WeChat-AI / 一段有角色感的日常对话
 
 | 场景 | 对话示例 |
@@ -123,6 +121,13 @@ Building AI applications. Exploring better ways to build with AI.
 
 **效果摘要（虚构数据）**：50 位体验用户 · 累计 2,000 次对话 · 平均回复 3 秒  
 [体验入口（占位）](https://example.com/wechat-ai) · [演示视频（占位）](https://example.com/wechat-ai-demo)
+
+</details>
+
+<details>
+<summary><strong>查看 bmad_prd 产出流程</strong> · 虚构示例</summary>
+
+> 以下需求、产出与效果数据为虚构展示。
 
 #### bmad_prd / 从一句需求到一组开发任务
 
@@ -138,31 +143,48 @@ Building AI applications. Exploring better ways to build with AI.
 **效果摘要（虚构数据）**：1 份 PRD · 6 个功能模块 · 18 条开发故事  
 [查看产出样例（占位）](https://example.com/bmad-prd-example)
 
-### Experience · 就职经历
+</details>
 
-> 以下公司、岗位、时间与工作内容均为虚构占位，待替换为真实经历。
+<br>
 
-**AI 应用开发工程师 · 示例科技 A（虚构）**  
-<sub>2024.07 — 至今（示例）</sub>
+<a id="experience"></a>
+## 03 &nbsp; Experience
+<sub>就职经历 · 以下公司、岗位、时间与工作内容均为虚构占位。</sub>
 
-- 参与企业 AI 助手与智能工作流开发，连接模型能力和业务系统。
-- 负责对话服务、工具调用及上下文组织，完善日志与效果验证。
-- 与产品团队协作，将业务需求拆解为可交付的开发任务。
+<table>
+<tr>
+<td width="23%" valign="top"><br><strong>2024.07 — 至今</strong><br><sub>示例经历 01</sub></td>
+<td valign="top">
+<h3>AI 应用开发工程师</h3>
+<p><strong>示例科技 A</strong> · 虚构公司</p>
+<p>参与企业 AI 助手与智能工作流开发，连接模型能力和业务系统。</p>
+<ul>
+<li>负责对话服务、工具调用及上下文组织，完善日志与效果验证。</li>
+<li>与产品团队协作，将业务需求拆解为可交付的开发任务。</li>
+</ul>
+<p><code>AI Applications</code> <code>Agent Workflows</code></p>
+</td>
+</tr>
+<tr>
+<td width="23%" valign="top"><br><strong>2022.07 — 2024.06</strong><br><sub>示例经历 02</sub></td>
+<td valign="top">
+<h3>Java 后端开发工程师</h3>
+<p><strong>示例科技 B</strong> · 虚构公司</p>
+<p>参与 SaaS 业务系统开发，负责接口、权限与数据处理模块。</p>
+<ul>
+<li>优化服务稳定性与问题排查流程，补充接口文档和自动化检查。</li>
+<li>推进公共能力复用，支持多个业务模块协作开发。</li>
+</ul>
+<p><code>Java</code> <code>SaaS</code> <code>Backend</code></p>
+</td>
+</tr>
+</table>
 
-**Java 后端开发工程师 · 示例科技 B（虚构）**  
-<sub>2022.07 — 2024.06（示例）</sub>
+<br>
 
-- 参与 SaaS 业务系统开发，负责接口、权限与数据处理模块。
-- 优化服务稳定性与问题排查流程，补充接口文档和自动化检查。
-- 推进公共能力复用，支持多个业务模块协作开发。
-
-### Working with
-
-**Languages** &nbsp; Java · TypeScript  
-**Focus** &nbsp; AI Applications · Agents · Context Engineering · AI-assisted Development
-
-
-### Writing & contact · 博客与联系
+<a id="writing"></a>
+## 04 &nbsp; Writing & contact
+<sub>记录构建过程，也分享沿途的发现。</sub>
 
 > 以下文章标题与联系方式均为示例；链接使用占位域名。
 
@@ -176,10 +198,11 @@ Building AI applications. Exploring better ways to build with AI.
 
 [个人博客（占位）](https://example.com/blog) · [邮箱（占位）](mailto:jackson@example.com) · [GitHub](https://github.com/Jackson366)
 
+<br>
 
 ---
 
-<div align="center">
-  <sub>把想法做出来，把过程分享出来。</sub>
-</div>
-
+<p align="center">
+  <b>把想法做出来，把过程分享出来。</b><br>
+  <sub>BUILD WITH CURIOSITY · SHARE WITH CARE</sub>
+</p>
