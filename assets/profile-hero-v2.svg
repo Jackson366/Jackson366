@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-label="Jackson. Build useful things with AI.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#12252b"/><stop offset="1" stop-color="#0b141a"/></linearGradient></defs>
+<rect width="1200" height="350" rx="24" fill="url(#bg)"/>
+<path d="M782 0V350M962 0V350M1200 105H744M1200 245H744" stroke="#243940" stroke-width="1"/>
+<circle cx="1110" cy="58" r="152" fill="none" stroke="#294a49" stroke-width="1"/>
+<circle cx="1110" cy="58" r="114" fill="none" stroke="#294a49" stroke-width="1"/>
+<rect x="52" y="43" width="7" height="7" rx="2" fill="#9aefcb"/>
+<text x="73" y="51" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" letter-spacing="3" fill="#a9c3c3">JACKSON / PERSONAL WORKSPACE</text>
+<text x="49" y="142" font-family="DejaVu Sans,Arial,sans-serif" font-size="67" font-weight="bold" letter-spacing="-3" fill="#f3f7f5">Build useful things.</text>
+<text x="52" y="197" font-family="DejaVu Sans,Arial,sans-serif" font-size="39" fill="#9aefcb">With AI. With intent.</text>
+<text x="54" y="249" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" fill="#b0c1c6">Applications / Agents / Evaluation</text>
+<path d="M54 284H669" stroke="#304047"/>
+<text x="54" y="310" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" letter-spacing="2" fill="#8da6ad">BUILD</text>
+<text x="155" y="310" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" letter-spacing="2" fill="#8da6ad">EXPERIMENT</text>
+<text x="308" y="310" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" letter-spacing="2" fill="#8da6ad">SHARE</text>
+<g transform="translate(812 68)">
+<rect x="12" y="12" width="306" height="218" rx="16" fill="#080f14" opacity=".6"/>
+<rect width="306" height="218" rx="16" fill="#162a31" stroke="#3a5358"/>
+<circle cx="22" cy="22" r="4" fill="#9aefcb"/><circle cx="38" cy="22" r="4" fill="#42605f"/><circle cx="54" cy="22" r="4" fill="#42605f"/>
+<text x="23" y="69" font-family="DejaVu Sans Mono,monospace" font-size="11" fill="#8da6ad">IDEA TO IMPLEMENTATION</text>
+<text x="21" y="125" font-family="DejaVu Sans Mono,monospace" font-size="43" font-weight="bold" fill="#9aefcb">&gt; build_</text>
+<path d="M23 151H283" stroke="#395157"/>
+<text x="23" y="179" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#c6d9d8">Make it work. Make it better.</text>
+<text x="23" y="200" font-family="DejaVu Sans,Arial,sans-serif" font-size="10" letter-spacing="1" fill="#8da6ad">JACKSON366 / GITHUB</text>
+</g></svg>
